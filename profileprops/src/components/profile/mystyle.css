@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap');
+
+body {
+  background-color: rgb(23, 42, 51);
+  color: rgb(199, 195, 195); /* text color */
+  text-align: center; 
+}
+
+h2 {
+  font-family: 'Yusei Magic', sans-serif;
+}
+
+
+.shiny-input-container {
+  color: #474747;
+}
+.adiv
+{
+    
+flex-direction: column-reverse;
+justify-self: stretch;
+border: solid 1px black;
+text-align: center;   
+}
